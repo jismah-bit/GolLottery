@@ -11,13 +11,13 @@ import Page404 from '../pages/404';
 const Home: NextPage = () => {
   return (
     <Layout pageTitle="Gol Lottery">
-{/*       <Header />
+      <Header />
       <Hero />
       <Numbers />
       <About />
-      <Footer /> */}
+      <Footer />
 
-      <Page404 />
+      {/* <Page404 /> */}
     </Layout>
   )
 }
